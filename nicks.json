@@ -1,14 +1,27 @@
 {
+  "blacklist": [
+    "uhc.thatmumbojumbo.com",
+    "173.233.142.10",
+    "cytooxien.de",
+    "cytooxien.net"
+  ],
   "mappings": {
     "56687a72-60c5-474a-8428-1e2a2f2939ef": {
+      "colour": "6591de",
       "mc_name": "FuriCM",
       "mc_uuid": "56687a72-60c5-474a-8428-1e2a2f2939ef",
-      "nickname": "Furi",
-      "colour": "#FFD700",
-      "colours": []
+      "nickname": "Furi"
+    },
+        },
+    "a1a8cdc0-7ba2-4d52-a11a-7b1ede158c8f": {
+      "colour": "b74aff",
+      "mc_name": "0ZWq",
+      "mc_uuid": "a1a8cdc0-7ba2-4d52-a11a-7b1ede158c8f",
+      "nickname": "0z"
     }
   },
-  "whitelist": [],
-  "blacklist": [],
-  "messages": []
+  "version": 2,
+  "whitelist": [
+    "yeah-swiftness.gl.joinmc.link"
+  ]
 }
