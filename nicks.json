@@ -17,8 +17,16 @@
       "mc_name": "0ZWq",
       "mc_uuid": "a1a8cdc0-7ba2-4d52-a11a-7b1ede158c8f",
       "nickname": ""
+    },
+        },
+    "7daae299-d2cb-4f97-8386-7b65b84ff832": {
+      "colour": "FF0000",
+      "mc_name": "Suitcase_4",
+      "mc_uuid": "7daae299-d2cb-4f97-8386-7b65b84ff832",
+      "nickname": ""
     }
-  },
+},
+
   "version": 2,
   "whitelist": [
     "yeah-swiftness.gl.joinmc.link"
