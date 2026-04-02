@@ -1,16 +1,16 @@
 {
   "ally": [
-    "&aSteve",
-    "&aAlex"
+    "§aSteve",
+    "§aAlex"
   ],
   "blue": [
-    "&9FuriCM",
-    "&9Suitcase_4"
+    "§9FuriCM",
+    "§9Suitcase_4"
   ],
   "enemy": [
-    "&cCLeaf",
-    "&ces_blaze",
-    "&cCirla",
-    "&c0ZWq"
+    "§cCLeaf",
+    "§ces_blaze",
+    "§cCirla",
+    "§c0ZWq"
   ]
 }
