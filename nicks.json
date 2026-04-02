@@ -1,12 +1,11 @@
 {
   "mappings": {
     "56687a72-60c5-474a-8428-1e2a2f2939ef": {
+      "mc_name": "FuriCM",
+      "mc_uuid": "56687a72-60c5-474a-8428-1e2a2f2939ef",
       "nickname": "Furi",
-      "color": "#FF5733"
-    },
-    "a1a8cdc0-7ba2-4d52-a11a-7b1ede158c8f": {
-      "nickname": "0Z",
-      "color": "#33FF57"
+      "colour": "#FFD700",
+      "colours": []
     }
   },
   "whitelist": [],
