@@ -1,16 +1,14 @@
-{
-  "ally": [
-    "§aSteve",
-    "§aAlex"
-  ],
-  "blue": [
-    "§9FuriCM",
-    "§9Suitcase_4"
-  ],
-  "enemy": [
-    "§cCLeaf",
-    "§ces_blaze",
-    "§cCirla",
-    "§c0ZWq"
-  ]
-}
+[
+  {
+    "mc_name": "FuriCM",
+    "mc_uuid": "56687a72-60c5-474a-8428-1e2a2f2939ef",
+    "discord_nick": "Furi",
+    "colour": "f1c40f"
+  },
+  {
+    "mc_name": "0ZWq",
+    "mc_uuid": "a1a8cdc0-7ba2-4d52-a11a-7b1ede158c8f",
+    "discord_nick": "0Z",
+    "colour": "95a5a6"
+  }
+]
