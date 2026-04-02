@@ -1,1 +1,15 @@
-[{"mc_name":"FuriCM","mc_uuid":"56687a72-60c5-474a-8428-1e2a2f2939ef","discord_nick":"Nicer Name!","colour":"f1c40f"},{"mc_name":"0ZWq","mc_uuid":"a1a8cdc0-7ba2-4d52-a11a-7b1ede158c8f","discord_nick":"discordn","colour":"accf0f"}]
+{
+  "mappings": {
+    "56687a72-60c5-474a-8428-1e2a2f2939ef": {
+      "nickname": "Furi",
+      "color": "#FF5733"
+    },
+    "a1a8cdc0-7ba2-4d52-a11a-7b1ede158c8f": {
+      "nickname": "0Z",
+      "color": "#33FF57"
+    }
+  },
+  "whitelist": [],
+  "blacklist": [],
+  "messages": []
+}
